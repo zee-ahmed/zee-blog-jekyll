@@ -5,15 +5,25 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-# Site settings
+# Seo settings
 title: Zee Ahmed | Developer
 email: zee@simplyzee.co.uk
-description: > # this means to ignore newlines until "baseurl:"
-  Software Engineer. Passionate about code & developer security. Addicted to learning.
+description: "Software Engineer. Passionate about code & developer security. Addicted to learning."
+
+# Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://simplyzee.co.uk" # the base hostname & protocol for your site
-twitter_username: zeieshanahmed
-github_username:  zee-ahmed
+
+# Author Settings
+author:
+  name: Zee Ahmed
+  job: Software Engineer
+  bio: Software Engineer. Passionate about code & developer security. Addicted to learning.
+  url: http://www.simplyzee.co.uk
+  github: http://github.com/zee-ahmed
+  twitter: http://twitter.com/zeieshanahmed
+  linkedin: https://www.linkedin.com/in/zee-ahmed-5454a547?
 
 # Build settings
+permalink: /:year/:title/
 markdown: kramdown
