@@ -11,8 +11,8 @@ email: zee@simplyzee.co.uk
 description: "Software Engineer. Passionate about code & developer security. Addicted to learning."
 
 # Site settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://simplyzee.co.uk" # the base hostname & protocol for your site
+baseurl: ""
+url: http://simplyzee.co.uk
 
 # Author Settings
 author:
@@ -22,8 +22,10 @@ author:
   url: http://www.simplyzee.co.uk
   github: http://github.com/zee-ahmed
   twitter: http://twitter.com/zeieshanahmed
-  linkedin: https://www.linkedin.com/in/zee-ahmed-5454a547?
+  linkedin: https://www.linkedin.com/in/zee-ahmed-5454a547
 
 # Build settings
 permalink: /:year/:title/
 markdown: kramdown
+
+gems: [bourbon]
