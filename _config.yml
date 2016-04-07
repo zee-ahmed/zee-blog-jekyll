@@ -26,8 +26,9 @@ author:
   linkedin: https://www.linkedin.com/in/zee-ahmed-5454a547
 
 # Build settings
-paginate: 5
-paginate_path: "page:num"
+permalink: /:year/:month/:day/:title/
+paginate: 10
+paginate_path: ":num"
 markdown: kramdown
 sass:
   style: expanded

@@ -50,7 +50,7 @@
 }
 
 .site-nav {
-    float: right;
+    text-align: center;
     line-height: 56px;
 
     .menu-icon {
@@ -58,8 +58,9 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $nav-text-color;
         line-height: $base-line-height;
+        text-transform: uppercase;
 
         // Gaps between nav items, but not on the last one
         &:not(:last-child) {
