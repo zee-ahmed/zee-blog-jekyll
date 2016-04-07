@@ -5,12 +5,20 @@
     min-height: 500px;
     // Positioning context for the mobile navigation icon
     position: relative;
-    background-image: url('/assets/img/header-bg.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/assets/img/header-bg.jpg');
     background-size: cover;
 
     .author-details {
         text-align: center;
         padding: 30px 0;
+
+        h1 {
+            color: #FFFFFF;
+        }
+
+        p.description {
+            color: #FFFFFF;
+        }
 
         .author-links {
             padding: 10px 0;

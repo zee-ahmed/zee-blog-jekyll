@@ -4,10 +4,13 @@
       <div class="author-details">
         <img src="/assets/img/zee.jpg" class="square-border" />
 
+        <h1>{{ site.author.name }}</h1>
+        <p class="description">{{ site.description }}</p>
+
         <div class="author-links">
-          <a href="#" class="social-network"><i class="icon fa fa-twitter-square fa-2x"></i></a>
-          <a href="#" class="social-network"><i class="icon fa fa-linkedin-square fa-2x"></i></a>
-          <a href="#" class="social-network"><i class="icon fa fa-github-square fa-2x"></i></a>
+          <a href="{{ site.author.twitter }}" class="social-network"><i class="icon fa fa-twitter-square fa-2x"></i></a>
+          <a href="{{ site.author.linkedin }}" class="social-network"><i class="icon fa fa-linkedin-square fa-2x"></i></a>
+          <a href="{{ site.author.github }}" class="social-network"><i class="icon fa fa-github-square fa-2x"></i></a>
         </div>
 
       </div>
