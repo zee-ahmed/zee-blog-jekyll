@@ -26,7 +26,6 @@ author:
   linkedin: https://www.linkedin.com/in/zee-ahmed-5454a547
 
 # Build settings
-permalink: /:year/:title/
 markdown: kramdown
 sass:
   style: expanded
