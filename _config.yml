@@ -19,6 +19,7 @@ author:
   name: Zee Ahmed
   job: Software Engineer
   bio: Software Engineer. Passionate about code & developer security. Addicted to learning.
+  thumb: /assets/img/zee.jpg
   url: http://www.simplyzee.co.uk
   github: http://github.com/zee-ahmed
   twitter: http://twitter.com/zeieshanahmed
@@ -27,5 +28,7 @@ author:
 # Build settings
 permalink: /:year/:title/
 markdown: kramdown
+sass:
+  style: expanded
 
 gems: [bourbon]

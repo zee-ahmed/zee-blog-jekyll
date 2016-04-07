@@ -2,12 +2,29 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
-    min-height: 56px;
-
+    min-height: 500px;
     // Positioning context for the mobile navigation icon
     position: relative;
+    background-image: url('/assets/img/header-bg.jpg');
+    background-size: cover;
+
+    .author-details {
+        text-align: center;
+        padding: 30px 0;
+
+        .author-links {
+            padding: 10px 0;
+
+            a.social-network {
+                padding: 0 15px;
+                color: #FFFFFF;
+
+                &:hover {
+                    color: #FFFFFF;
+                }
+            }
+        }
+    }
 }
 
 .site-title {
@@ -169,6 +186,9 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-color: #ffffff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 .page-heading {
