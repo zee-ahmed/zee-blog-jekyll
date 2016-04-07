@@ -36,3 +36,4 @@ sass:
 gems:
 - bourbon
 - jekyll-paginate
+- jekyll-read-more
