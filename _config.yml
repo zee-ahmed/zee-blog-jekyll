@@ -26,8 +26,12 @@ author:
   linkedin: https://www.linkedin.com/in/zee-ahmed-5454a547
 
 # Build settings
+paginate: 5
+paginate_path: "page:num"
 markdown: kramdown
 sass:
   style: expanded
 
-gems: [bourbon]
+gems:
+- bourbon
+- jekyll-paginate
