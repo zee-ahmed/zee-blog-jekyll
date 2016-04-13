@@ -125,8 +125,27 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+    line-height: 56px;
+
+    .footer-col-wrapper {
+        margin-left: 0px;
+        color: #FFFFFF;
+    }
+
+    .wrapper {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .copyright {
+        text-align: center;
+        margin-left: 0px;
+        background: rgba(0,0,0,0.5);
+
+        p {
+            margin-bottom: 0px;
+        }
+    }
 }
 
 .footer-heading {
@@ -166,6 +185,11 @@
 .footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-12 {
+    width: -webkit-cal(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-laptop) {
