@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "What is snyk.io?"
+comments: true
 date:   2016-05-02 20:48:00 +0100
 categories: security developer nodejs
 ---
