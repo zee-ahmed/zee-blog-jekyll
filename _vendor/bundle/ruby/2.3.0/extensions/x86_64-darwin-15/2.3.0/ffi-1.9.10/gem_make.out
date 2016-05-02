@@ -1,5 +1,5 @@
 current directory: /Users/zeieshan/Development/MyProjects/SimplyZeeBlog/_vendor/bundle/ruby/2.3.0/gems/ffi-1.9.10/ext/ffi_c
-/Users/zeieshan/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160407-10758-8cn990.rb extconf.rb
+/Users/zeieshan/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160502-24669-1nw58hj.rb extconf.rb
 checking for ffi.h... no
 checking for ffi.h in /usr/local/include,/usr/include/ffi... yes
 checking for ffi_call() in -lffi... yes
@@ -61,4 +61,4 @@ linking shared-object ffi_c.bundle
 
 current directory: /Users/zeieshan/Development/MyProjects/SimplyZeeBlog/_vendor/bundle/ruby/2.3.0/gems/ffi-1.9.10/ext/ffi_c
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20160407-10758-19aretc
+/usr/bin/install -c -m 0755 ffi_c.bundle ./.gem.20160502-24669-7xftnv
