@@ -1,4 +1,6 @@
 _site
 .sass-cache
 .jekyll-metadata
+_vendor
+.bundle
 **/.idea/workspace.xml **/.idea/tasks.xml
