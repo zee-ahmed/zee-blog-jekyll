@@ -11,7 +11,7 @@ email: zee@simplyzee.co.uk
 description: "Software Engineer. Passionate about code & developer security. Addicted to learning."
 
 # Site settings
-baseurl: ""
+baseurl: "" 
 url: http://simplyzee.co.uk
 
 # Author Settings
