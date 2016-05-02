@@ -4,7 +4,9 @@ title:  "What is snyk.io?"
 date:   2016-05-02 20:48:00 +0100
 categories: security developer nodejs
 ---
-
+<div style="text-align:center" markdown="1">
+![alt text](https://www.theodo.fr/uploads/blog//2015/10/snyk.png "Snyk.io")
+</div>
 Snyk is an NPM package that can help you find and fix vulnerabilities with your NodeJS application. It can also be used with Continuous Integration tools to add a process to scan and fix or prompt at build.
 
 ## How does it work?
