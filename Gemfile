@@ -5,5 +5,6 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "bourbon"
 gem "jekyll-read-more"
+gem 'jemoji'
 
 # gem "rails"

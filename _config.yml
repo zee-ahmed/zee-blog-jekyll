@@ -34,6 +34,7 @@ sass:
   style: expanded
 
 gems:
-- bourbon
-- jekyll-paginate
-- jekyll-read-more
+  - bourbon
+  - jekyll-paginate
+  - jekyll-read-more
+  - jemoji
