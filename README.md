@@ -3,6 +3,6 @@
 My blog powered by [Jekyll](https://jekyllrb.com).
 
 #### TODO
-* Blog template design / responsive
 * Import blog posts
 * Pagination design
+* Add Social network share buttons
