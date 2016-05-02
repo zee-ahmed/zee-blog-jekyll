@@ -4,7 +4,7 @@ title: About
 permalink: /about-zee/
 ---
 
-Hi, I'm Zeieshan Ahmed **(known as Zee)**, 23 years old, Software Engineer.
+Hi, I'm Zeieshan Ahmed **(known as Zee)**, Software Engineer.
 
 By day, I work for a company writing software. In my spare time, I'll either be working on my ideas that I have, writing a blog post or the usual stuff that other people get up to.
 
