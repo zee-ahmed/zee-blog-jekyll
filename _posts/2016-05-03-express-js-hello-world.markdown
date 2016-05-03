@@ -5,6 +5,9 @@ comments: true
 date:   2016-05-03 00:14:00 +0100
 categories: developer nodejs javascript
 ---
+
+Another one of those "Hello World" examples. You'll probably find something similar on the internet but hey... why not? here goes.
+
 Express JS is a web framework that allows us to create a web application with Node JS along with a variety of templating languages to use such as Pug(used to be called Jade), EJS or simply just HTML.
 
 Express JS allows a developer to manage everything from requests to handling routes and views.
