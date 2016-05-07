@@ -17,9 +17,9 @@ Not only that but it has the cool Docker logo on the OS X toolbar!
 
 Because of this I've now started creating Dockerfiles with my new projects I'm working on which use technology stacks such as React JS and Node JS together. If you're interested you can check them out here.
 
-[https://github.com/zee-ahmed/tmdbs-web-nodejs](tmdbs-web-nodejs)
+[tmdbs-web-nodejs](https://github.com/zee-ahmed/tmdbs-web-nodejs)
 
-[https://github.com/zee-ahmed/tmdbs-api-nodejs](tmdbs-api-nodejs)
+[tmdbs-api-nodejs](https://github.com/zee-ahmed/tmdbs-api-nodejs)
 
 Even though the current version of Docker could improve my local dev environment, I'd have still had to install a load of resources to get it working. With this new BETA, I've been able to make the decision to cut Vagrant out and start focusing more on Docker.
 
