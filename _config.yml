@@ -36,4 +36,4 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll-read-more
-  - jemoji
+  #- jemoji
